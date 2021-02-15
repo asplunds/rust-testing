@@ -1,0 +1,15 @@
+{
+  "name": "boop",
+  "collaborators": [
+    "aspunds <jonathan@asplund.net>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "boop_bg.wasm",
+    "boop.js",
+    "boop.d.ts"
+  ],
+  "module": "boop.js",
+  "types": "boop.d.ts",
+  "sideEffects": false
+}
